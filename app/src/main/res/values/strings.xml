@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">temas_con_spinner</string>
+    <string-array name="temas">
+        <item>Dia</item>
+        <item>Noche</item>
+
+    </string-array>
+</resources>
